@@ -5,3 +5,5 @@ I was tired of waiting to buy some account on website, they're all sold out, i d
 So i made this, put it in vps and take a nap
 
 Life is ease
+
+# I will have to upload some gui for him, and optimize it too
